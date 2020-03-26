@@ -1,0 +1,15 @@
+C:\Users\Jatin Mittal\source\repos\DataAccess\DataAccess\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Jatin Mittal\source\repos\DataAccess\DataAccess\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Jatin Mittal\source\repos\DataAccess\DataAccess\DataAccess\bin\Debug\netstandard2.0\ref\DataAccess.dll
+C:\Users\Jatin Mittal\source\repos\DataAccess\DataAccess\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Jatin Mittal\source\repos\DataAccess\DataAccess\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Jatin Mittal\source\repos\DataAccess\DataAccess\DataAccess\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jatin Mittal\source\repos\DataAccess\DataAccess\DataAccess\obj\Debug\netstandard2.0\ApplicationProperties.xaml.g.cs
+C:\Users\Jatin Mittal\source\repos\DataAccess\DataAccess\DataAccess\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jatin Mittal\source\repos\DataAccess\DataAccess\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Jatin Mittal\source\repos\DataAccess\DataAccess\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Jatin Mittal\source\repos\DataAccess\DataAccess\DataAccess\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jatin Mittal\source\repos\DataAccess\DataAccess\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Jatin Mittal\source\repos\DataAccess\DataAccess\DataAccess\obj\Debug\netstandard2.0\ref\DataAccess.dll
+C:\Users\Jatin Mittal\source\repos\DataAccess\DataAccess\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Jatin Mittal\source\repos\DataAccess\DataAccess\DataAccess\obj\Debug\netstandard2.0\Test.xaml.g.cs

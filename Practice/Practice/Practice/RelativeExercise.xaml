@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Practice.RelativeExercise">
+
+    <RelativeLayout>
+
+        <BoxView BackgroundColor="Yellow"
+                 RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property= Width, Factor=1}"
+                 RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property= Height, Factor=0.3}"/>
+
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center"
+               RelativeLayout.WidthConstraint="{ConstraintExpression
+                    Type=RelativeToParent, 
+                    Property= Width, 
+                    Factor=1}"
+               RelativeLayout.HeightConstraint="{ConstraintExpression
+                    Type=RelativeToParent, 
+                    Property= Height, 
+                    Factor=0.3}">
+
+            <Label Text="$11.95" FontSize="60" TextColor="#33353a" FontAttributes="Bold"/>
+            <Button Text="Add $7.99 Credit" BackgroundColor="#1695A3" BorderRadius="15" HeightRequest="30" FontSize="15" FontAttributes="bold"/>
+        </StackLayout>
+
+        <StackLayout
+            RelativeLayout.WidthConstraint="{ConstraintExpression
+                Type=RelativeToParent,
+                Property=Width,
+                Factor=1}"
+            RelativeLayout.YConstraint="{ConstraintExpression
+                Type=RelativeToView,
+                ElementName= banner,
+                Property= Height,
+                Factor=1,Constant=30}">
+
+            <Label Text="Why pay for Credit" FontSize="15" FontAttributes="Bold"/>
+            <Label HorizontalTextAlignment="Center" Text="eklbfwqlcaebfeouwafweafweaobfwejbfiyavwfukwebfuvweaufiweakfvewfvew;uvfbwefjelf"FontSize="13"/>
+        </StackLayout>
+    </RelativeLayout>
+
+
+</ContentPage>

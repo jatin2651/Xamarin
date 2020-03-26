@@ -1,0 +1,14 @@
+C:\Users\Jatin Mittal\source\repos\Exercise1\Exercise1\Exercise1\bin\Debug\netstandard2.0\Exercise1.deps.json
+C:\Users\Jatin Mittal\source\repos\Exercise1\Exercise1\Exercise1\bin\Debug\netstandard2.0\Exercise1.dll
+C:\Users\Jatin Mittal\source\repos\Exercise1\Exercise1\Exercise1\bin\Debug\netstandard2.0\ref\Exercise1.dll
+C:\Users\Jatin Mittal\source\repos\Exercise1\Exercise1\Exercise1\bin\Debug\netstandard2.0\Exercise1.pdb
+C:\Users\Jatin Mittal\source\repos\Exercise1\Exercise1\Exercise1\obj\Debug\netstandard2.0\Exercise1.csprojAssemblyReference.cache
+C:\Users\Jatin Mittal\source\repos\Exercise1\Exercise1\Exercise1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jatin Mittal\source\repos\Exercise1\Exercise1\Exercise1\obj\Debug\netstandard2.0\HelloPage.xaml.g.cs
+C:\Users\Jatin Mittal\source\repos\Exercise1\Exercise1\Exercise1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jatin Mittal\source\repos\Exercise1\Exercise1\Exercise1\obj\Debug\netstandard2.0\Exercise1.AssemblyInfoInputs.cache
+C:\Users\Jatin Mittal\source\repos\Exercise1\Exercise1\Exercise1\obj\Debug\netstandard2.0\Exercise1.AssemblyInfo.cs
+C:\Users\Jatin Mittal\source\repos\Exercise1\Exercise1\Exercise1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jatin Mittal\source\repos\Exercise1\Exercise1\Exercise1\obj\Debug\netstandard2.0\Exercise1.dll
+C:\Users\Jatin Mittal\source\repos\Exercise1\Exercise1\Exercise1\obj\Debug\netstandard2.0\ref\Exercise1.dll
+C:\Users\Jatin Mittal\source\repos\Exercise1\Exercise1\Exercise1\obj\Debug\netstandard2.0\Exercise1.pdb

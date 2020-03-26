@@ -1,0 +1,14 @@
+C:\Users\Jatin Mittal\source\repos\GridExercise\GridExercise\GridExercise\bin\Debug\netstandard2.0\GridExercise.deps.json
+C:\Users\Jatin Mittal\source\repos\GridExercise\GridExercise\GridExercise\bin\Debug\netstandard2.0\GridExercise.dll
+C:\Users\Jatin Mittal\source\repos\GridExercise\GridExercise\GridExercise\bin\Debug\netstandard2.0\ref\GridExercise.dll
+C:\Users\Jatin Mittal\source\repos\GridExercise\GridExercise\GridExercise\bin\Debug\netstandard2.0\GridExercise.pdb
+C:\Users\Jatin Mittal\source\repos\GridExercise\GridExercise\GridExercise\obj\Debug\netstandard2.0\GridExercise.csprojAssemblyReference.cache
+C:\Users\Jatin Mittal\source\repos\GridExercise\GridExercise\GridExercise\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jatin Mittal\source\repos\GridExercise\GridExercise\GridExercise\obj\Debug\netstandard2.0\GridView.xaml.g.cs
+C:\Users\Jatin Mittal\source\repos\GridExercise\GridExercise\GridExercise\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jatin Mittal\source\repos\GridExercise\GridExercise\GridExercise\obj\Debug\netstandard2.0\GridExercise.AssemblyInfoInputs.cache
+C:\Users\Jatin Mittal\source\repos\GridExercise\GridExercise\GridExercise\obj\Debug\netstandard2.0\GridExercise.AssemblyInfo.cs
+C:\Users\Jatin Mittal\source\repos\GridExercise\GridExercise\GridExercise\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jatin Mittal\source\repos\GridExercise\GridExercise\GridExercise\obj\Debug\netstandard2.0\GridExercise.dll
+C:\Users\Jatin Mittal\source\repos\GridExercise\GridExercise\GridExercise\obj\Debug\netstandard2.0\ref\GridExercise.dll
+C:\Users\Jatin Mittal\source\repos\GridExercise\GridExercise\GridExercise\obj\Debug\netstandard2.0\GridExercise.pdb

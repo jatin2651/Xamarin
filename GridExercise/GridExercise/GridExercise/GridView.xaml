@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="GridExercise.GridView"
+             BackgroundColor="#127ac7">
+
+
+  
+        <!-- EXERCISE NUMBER 1 GRID PAGE
+
+
+        <Grid Padding="40" RowSpacing="10" ColumnSpacing="10">
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height ="2*"/>
+                <RowDefinition Height ="*"/>
+                <RowDefinition Height ="*"/>
+                <RowDefinition Height ="*"/>
+                <RowDefinition Height ="*"/>
+                <RowDefinition Height ="*"/>
+            </Grid.RowDefinitions>
+
+
+        <Label Grid.Row ="0" Grid.ColumnSpan="3" Text="1234" TextColor="White" VerticalOptions="Center" HorizontalOptions="Center" FontSize="50"/>
+        <Button Grid.Row="1" Grid.Column="0" Text="1" FontSize="30" TextColor="#28282c" BackgroundColor="#fff" BorderRadius ="30"/>
+        <Button Grid.Row="1" Grid.Column="1" Text="2" FontSize="30" TextColor="#28282c" BackgroundColor="#fff" BorderRadius ="30"/>              
+        <Button Grid.Row="1" Grid.Column="2" Text="3" FontSize="30" TextColor="#28282c" BackgroundColor="#fff" BorderRadius ="30"/>
+
+        <Button Grid.Row="2" Grid.Column="0" Text="4" FontSize="30" TextColor="#28282c" BackgroundColor="#fff" BorderRadius ="30"/>
+        <Button Grid.Row="2" Grid.Column="1" Text="5" FontSize="30" TextColor="#28282c" BackgroundColor="#fff" BorderRadius ="30"/>
+        <Button Grid.Row="2" Grid.Column="2" Text="6" FontSize="30" TextColor="#28282c" BackgroundColor="#fff" BorderRadius ="30"/>
+
+
+        <Button Grid.Row="3" Grid.Column="0" Text="7" FontSize="30" TextColor="#28282c" BackgroundColor="#fff" BorderRadius ="30"/>
+        <Button Grid.Row="3" Grid.Column="1" Text="8" FontSize="30" TextColor="#28282c" BackgroundColor="#fff" BorderRadius ="30"/>
+        <Button Grid.Row="3" Grid.Column="2" Text="9" FontSize="30" TextColor="#28282c" BackgroundColor="#fff" BorderRadius ="30"/>
+
+        <Button Grid.Row="4" Grid.Column="1" Text="0" FontSize="30" TextColor="#28282c" BackgroundColor="#fff" BorderRadius ="30"/>
+        <Button Grid.Row="5"  Grid.ColumnSpan="3" Text="Dial" FontSize="30" TextColor="#28282c" BackgroundColor="#96ca2d" BorderRadius ="30"/>
+
+        </Grid>
+
+    -->
+    
+    
+        <!--    EXERCISE NUMBER 2 Grid page-->
+
+
+    <Grid Padding="20">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <StackLayout Grid.Row="0" VerticalOptions="Center">
+            <Label Text="Welcome to Xamarin" FontSize="30" TextColor="White" HorizontalOptions="Center" />
+            <Label Text="Cross-platform apps made easy" FontSize="18" TextColor="White"  HorizontalOptions="Center"/>
+        </StackLayout>
+
+        <Button Grid.Row="1" Text="Login" TextColor="White" BackgroundColor="#1dabf0"/>
+        <Button Grid.Row="2" Text="Register" TextColor="White" BackgroundColor="#1dabf0"/>
+    </Grid>
+    
+ 
+
+
+
+</ContentPage>

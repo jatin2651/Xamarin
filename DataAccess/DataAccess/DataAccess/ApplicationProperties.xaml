@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="DataAccess.ApplicationProperties">
+    <ContentPage.Content>
+        <TableView>
+            <TableRoot>
+                <TableSection>
+                    
+                    <EntryCell Label ="Title" x:Name ="title" Text="{Binding Title}" Placeholder="(eg Shopping)" Completed="change"/>
+                    <SwitchCell x:Name="notificationsEnabled" Text="Notifications" On="{Binding NotificationsEnabled}" OnChanged="change"/>
+                </TableSection>
+            </TableRoot>
+        </TableView>
+    </ContentPage.Content>
+</ContentPage>

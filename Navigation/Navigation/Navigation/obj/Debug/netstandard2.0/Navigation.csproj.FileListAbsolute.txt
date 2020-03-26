@@ -1,0 +1,17 @@
+C:\Users\Jatin Mittal\source\repos\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.csprojAssemblyReference.cache
+C:\Users\Jatin Mittal\source\repos\Navigation\Navigation\Navigation\bin\Debug\netstandard2.0\Navigation.deps.json
+C:\Users\Jatin Mittal\source\repos\Navigation\Navigation\Navigation\bin\Debug\netstandard2.0\Navigation.dll
+C:\Users\Jatin Mittal\source\repos\Navigation\Navigation\Navigation\bin\Debug\netstandard2.0\ref\Navigation.dll
+C:\Users\Jatin Mittal\source\repos\Navigation\Navigation\Navigation\bin\Debug\netstandard2.0\Navigation.pdb
+C:\Users\Jatin Mittal\source\repos\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jatin Mittal\source\repos\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Introduction.xaml.g.cs
+C:\Users\Jatin Mittal\source\repos\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jatin Mittal\source\repos\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Jatin Mittal\source\repos\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.AssemblyInfoInputs.cache
+C:\Users\Jatin Mittal\source\repos\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.AssemblyInfo.cs
+C:\Users\Jatin Mittal\source\repos\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jatin Mittal\source\repos\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.dll
+C:\Users\Jatin Mittal\source\repos\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\ref\Navigation.dll
+C:\Users\Jatin Mittal\source\repos\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Navigation.pdb
+C:\Users\Jatin Mittal\source\repos\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\Contact.xaml.g.cs
+C:\Users\Jatin Mittal\source\repos\Navigation\Navigation\Navigation\obj\Debug\netstandard2.0\ContactDetail.xaml.g.cs

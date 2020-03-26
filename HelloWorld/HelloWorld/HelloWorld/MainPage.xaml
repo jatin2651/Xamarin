@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:HelloWorld"
+             mc:Ignorable="d"
+             x:Class="HelloWorld.MainPage">
+
+    <local:ContactPage Title="Contacts" />
+
+  
+        <ContentPage Title="Page 1">
+            <Label Text="Hiiiii first page"  HorizontalOptions="Center" VerticalOptions="Center"/>
+        </ContentPage>
+      
+   
+
+    <ContentPage Title="Page 2">
+        <Label Text="Hiiiii Second page" HorizontalOptions="Center" VerticalOptions="Center"/>
+    </ContentPage>
+
+    
+
+
+</CarouselPage>
+
+

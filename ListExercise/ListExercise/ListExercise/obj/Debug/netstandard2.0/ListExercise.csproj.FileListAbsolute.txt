@@ -1,0 +1,14 @@
+C:\Users\Jatin Mittal\source\repos\ListExercise\ListExercise\ListExercise\bin\Debug\netstandard2.0\ListExercise.deps.json
+C:\Users\Jatin Mittal\source\repos\ListExercise\ListExercise\ListExercise\bin\Debug\netstandard2.0\ListExercise.dll
+C:\Users\Jatin Mittal\source\repos\ListExercise\ListExercise\ListExercise\bin\Debug\netstandard2.0\ref\ListExercise.dll
+C:\Users\Jatin Mittal\source\repos\ListExercise\ListExercise\ListExercise\bin\Debug\netstandard2.0\ListExercise.pdb
+C:\Users\Jatin Mittal\source\repos\ListExercise\ListExercise\ListExercise\obj\Debug\netstandard2.0\ListExercise.csprojAssemblyReference.cache
+C:\Users\Jatin Mittal\source\repos\ListExercise\ListExercise\ListExercise\obj\Debug\netstandard2.0\AirBnb.xaml.g.cs
+C:\Users\Jatin Mittal\source\repos\ListExercise\ListExercise\ListExercise\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jatin Mittal\source\repos\ListExercise\ListExercise\ListExercise\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jatin Mittal\source\repos\ListExercise\ListExercise\ListExercise\obj\Debug\netstandard2.0\ListExercise.AssemblyInfoInputs.cache
+C:\Users\Jatin Mittal\source\repos\ListExercise\ListExercise\ListExercise\obj\Debug\netstandard2.0\ListExercise.AssemblyInfo.cs
+C:\Users\Jatin Mittal\source\repos\ListExercise\ListExercise\ListExercise\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jatin Mittal\source\repos\ListExercise\ListExercise\ListExercise\obj\Debug\netstandard2.0\ListExercise.dll
+C:\Users\Jatin Mittal\source\repos\ListExercise\ListExercise\ListExercise\obj\Debug\netstandard2.0\ref\ListExercise.dll
+C:\Users\Jatin Mittal\source\repos\ListExercise\ListExercise\ListExercise\obj\Debug\netstandard2.0\ListExercise.pdb
